@@ -51,7 +51,7 @@
 ## Association
 
 - belongs_to :room
-_ belongs_to :user
+- belongs_to :user
 
 
 
